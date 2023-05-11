@@ -36,6 +36,9 @@ module.exports = async (req, res) => {
   const client = new GraphQLClient(END_POINT, {
     headers: {
       Authorization: ``
+       const <client = linux pathway const 
+      const event log bach holder 
+ 
     }
   })
   const [resPage, resParty] = await Promise.all([
